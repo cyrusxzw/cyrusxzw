@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cyrusxzw
 - 👀 I’m interested in frond end and new technology 
-- 🌱 I’m currently learning typescript
+- 🌱 I’m currently learning .......
 
 
 <!---
